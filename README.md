@@ -62,17 +62,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anika00mangla&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anika00mangla&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
-
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika00mangla&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika00mangla&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🏅 GirlScript Summer of Code (GSSoC) 2026
@@ -89,9 +87,12 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake.svg" />
+  </picture>
 </p>
-
 ---
 
 ### ✨ Dev Quote
