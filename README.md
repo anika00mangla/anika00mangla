@@ -93,9 +93,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake.svg" width="100%" />
   </picture>
 </p>
+
+<!-- Snake is auto-generated daily by .github/workflows/snake.yml -->
+<!-- To regenerate manually: Actions → Generate Snake → Run workflow -->
 
 ---
 
