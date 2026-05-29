@@ -50,13 +50,9 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anika00mangla&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anika00mangla&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=anika00mangla&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anika00mangla&theme=radical" height="160"/>
 </p>
 
 ---
@@ -64,17 +60,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anika00mangla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=anika00mangla&theme=radical&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika00mangla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anika00mangla&layout=compact&theme=radical&hide=html" />
 </p>
-
 ---
 
 ### 🏅 GirlScript Summer of Code (GSSoC) 2026
