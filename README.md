@@ -78,10 +78,18 @@
 
 ### 🏅 GirlScript Summer of Code (GSSoC) 2026
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/main/gssoc-badge-rising_star.png" width="120" alt="GSSoC Rising Star Badge" title="Rising Star" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/main/gssoc-badge-building_momentum.png" width="120" alt="GSSoC Building Momentum Badge" title="Building Momentum" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/main/gssoc-badge-power_contributor.png" width="120" alt="GSSoC Power Contributor Badge" title="Power Contributor" />
+</p>
+
 - 🚀 **Active Contributor** in GirlScript Summer of Code 2026
 - 💻 Contributing to open-source projects in AI, web, and security domains
 - 🎯 **Achievements**:
-  - Earned **GSSoC Champion**, **GSSoC Legend**, and **Top 10** milestone badges
+  - Earned **Rising Star**, **Building Momentum**, and **Power Contributor** milestone badges
   - Contributed security fixes, build pipeline improvements, and URL sanitization features
   - Collaborating with maintainers across multiple codebases
 
