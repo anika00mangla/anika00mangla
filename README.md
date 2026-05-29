@@ -44,13 +44,11 @@
 </p>
 
 ---
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,postgres,html,css,javascript,react,nodejs,git,github,vscode,figma,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,c,cpp,java,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,mongodb,mysql,postgres,firebase,git,github,vscode,figma,docker" alt="Tech Stack" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
