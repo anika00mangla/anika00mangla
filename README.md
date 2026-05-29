@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" alt="coding animation"/>
-</div>
+<!-- 👩‍💻 HD CODER GIF -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ0YmR2Y21xZG8ycWl4bDJ6bmhheGM3ZmR5ZXVxdGhlMGlvM2d6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnOHnjfm8uJkZW4ky4/giphy.gif" width=100% />
+</p>
 
 <h1 align="center">Hi 👋, I'm Anika Mangla</h1>
 <h3 align="center">🤖 Future AI/ML Developer | CSE Student | Where Logic Meets Creativity</h3>
