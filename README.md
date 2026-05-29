@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Anika Mangla</h1>
-
 <h3 align="center">🤖 Future AI/ML Developer | CSE Student | Where Logic Meets Creativity</h3>
 
 <p align="center">
@@ -52,9 +51,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anika00mangla&show_icons=true&theme=radical" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anika00mangla&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anika00mangla&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anika00mangla&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,11 +67,13 @@
 </p>
 
 ---
+
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika00mangla&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika00mangla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 ---
 
 ### 🏅 GirlScript Summer of Code (GSSoC) 2026
@@ -93,6 +96,7 @@
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anika00mangla/anika00mangla/output/github-snake.svg" />
   </picture>
 </p>
+
 ---
 
 ### ✨ Dev Quote
