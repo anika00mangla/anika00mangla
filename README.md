@@ -25,7 +25,7 @@
 - 🎨 By night: designing, creating content, and turning ideas into something visual
 - 🤝 Open to collaborating on **open-source projects, AI experiments & hackathons**
 - 🌱 Exploring everything from **neural networks to design boards**
-- 💡 If it's AI, design, or something in between — I'm probably already experimenting with it :)
+- 💡 If it's AI, design, or something in between , I'm probably already experimenting with it :)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anika-m-892081299)
 - ⚡ Fun fact: *I switch between logic and creativity like others switch browser tabs*
 
