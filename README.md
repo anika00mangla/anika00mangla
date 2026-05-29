@@ -6,7 +6,7 @@
 <h3 align="center">🤖 Future AI/ML Developer | CSE Student | Where Logic Meets Creativity</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=22&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Python+Enthusiast;Open+Source+Contributor+%7C+GSSoC+2026;Building+things+that+matter+with+AI;From+neural+networks+to+design+boards+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=22&center=true&vCenter=true&width=650&lines=Exploring+AI%2C+Design+%26+Creativity+%F0%9F%A7%A0;Building+with+Python%2C+ML+%26+Neural+Networks;Object+Detection+%7C+Semantic+Segmentation;Language+Translation+%7C+GSSoC+2026+Contributor;Turning+Ideas+into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,11 +15,12 @@
 
 > *"I don't just want to understand how things work — I want to build things that matter."*
 
-- 🧠 Living at the intersection of **AI, creativity, and curiosity**
-- 🔭 Currently building my foundation in **Machine Learning & Python algorithms**
+- 🧠 Exploring **AI, design & creativity** — where logic meets imagination
+- 🔭 Building real projects in **ML, Object Detection & Semantic Segmentation**
+- 🌐 Working on **Language Translation tools** and AI-powered web apps
 - 🎨 By night: designing, creating content, and turning ideas into something visual
 - 🤝 Open to collaborating on **open-source projects, AI experiments & hackathons**
-- 🌱 Exploring everything from **neural networks to design boards**
+- 🌱 Currently diving deeper into **neural networks, Python algorithms & TypeScript**
 - 💡 If it's AI, design, or something in between — I'm probably already experimenting with it :)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anika-m-892081299)
 - ⚡ Fun fact: *I switch between logic and creativity like others switch browser tabs*
@@ -112,6 +113,8 @@
 
 ### ✨ Dev Quote
 
+> *"Exploring AI, design & creativity — building with Python, ML, and turning ideas into real projects."*
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
@@ -119,5 +122,5 @@
 ---
 
 <p align="center">
-  <i>✨ From neural networks to design boards — always building, always curious ✨</i>
+  <i>✨ Exploring AI, design & creativity — building with Python, ML, and turning ideas into real projects ✨</i>
 </p>
